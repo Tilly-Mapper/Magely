@@ -1,0 +1,2 @@
+# Magely
+my new project
